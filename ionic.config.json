@@ -1,0 +1,8 @@
+{
+  "name": "essaigit",
+  "app_id": "81ae2f5b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
